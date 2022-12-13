@@ -1,0 +1,654 @@
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+
+	
+}
+
+
+/* FOR-LG-START */
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+	.contact-submit input[type="submit"] {
+	  background-position: 99% 50%;
+	  padding: 20px 0;
+	}
+
+	.popular-inner-left ul li {
+	  padding-right: 15px;
+	}
+
+	.popular-inner-right ul li {
+	  padding-right: 10px;
+	}
+
+	.show-map-item1 {
+		margin-bottom: 30px;
+	}
+
+	.show-map-item3 {
+		margin-top: 30px;
+	}
+
+	.show-map-area2 {
+	  padding-left: calc((100% - 935px) / 2); 
+	}
+
+	.longer-inner {
+		margin-top: 30px;
+	}
+
+	.room-option-item {
+	  	width: 100%;
+	  	margin: 18px 0 0 0;
+	}
+
+	.main-content4 .owl-theme .custom-nav .owl-next {
+	  	right: 0;
+	  	top: 50px;
+	}
+
+	.main-content4 .owl-theme .custom-nav .owl-prev {
+	  	left: 50px;
+	  	top: 50px;
+	}
+
+	.hotel-right-img {
+		margin-top: 20px;
+	}
+
+	.balina-input6 button {
+		font-size: 13px;
+	}
+
+	.balina-input3::after, .balina-input4::after, .balina-input5::after {
+		  height: 164%;
+		  top: -10px;
+	}
+
+	.main-nav ul li a {
+		font-size: 16px;
+	}
+
+	.popular-inner-left10 ul li a {
+		font-size: 18px;
+	}
+		
+
+	
+} 
+
+
+
+/*FOR-TABLATE-START*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	.navigation-main {
+	  padding: 15px 0 5px 0;
+	}
+	
+	.contact-item-inner2 {
+	  	margin-top: 0px;
+	}
+
+	.input-item, 
+	.contact-submit, 
+	.input-item2, 
+	.input-item2-inner{
+		/*! margin-top: 5px; */
+	}
+
+	.contact-submit input[type="submit"] {
+		background-position: 61% 50%;
+	}
+
+	.popular-inner-right {
+		margin-top: 10px;
+	}
+
+	.popular-inner-left ul,
+	.popular-inner-right ul {
+		justify-content: center;
+	}
+
+	.show-map-item1 {
+		margin-bottom: 30px;
+	}
+
+	.show-map-item3 {
+		margin-top: 30px;
+		text-align: center;
+	}
+
+	.show-map-cnt-inner2 h6 {
+		margin-top: 46px;
+	}
+
+	.show-map-area2 {
+	  	padding-left: calc((100% - 695px) / 2); 
+	}
+
+	.longer-inner {
+		margin-top: 30px;
+	}
+
+	.hotel-item2 .col-lg-7 {
+		width: 100%;
+		flex: 100%;
+	}
+
+	.hotel-item2 .col-lg-5 {
+		width: 100%;
+		flex: 100%;
+	}
+
+	.main-content4 .owl-theme .custom-nav .owl-prev {
+	  	left: 245px;
+	  	top: 94px;
+	}
+
+	.room-option-item {
+	  	width: 100%;
+	  	margin: 18px 0 0 0;
+	}
+
+	.price-item a {
+  		padding: 8px 19px;
+
+  	}
+
+  	.hotel-right-img {
+		margin-top: 20px;
+	}
+
+	.payment-right-side {
+		margin: auto;
+		margin-top: 40px;
+	}
+
+	.banila-contact-box {
+	  	margin-top: 55px;
+	}
+
+	.balina-input3::after,
+	.balina-input4::after,
+	.balina-input5::after {
+		display: none;
+	}
+
+	.balina-form-box {
+	 	padding: 15px;
+	 }
+
+	 .balina-input-img {
+	 	display: none;
+	 }
+
+	 .balina-input {
+	 	margin-top: 15px;
+	 }
+
+	.balina-input input {
+	 	border: 2px solid #003663;
+	 	border-radius: 5px;
+	 	padding-top: 10px;
+	 	padding-bottom: 10px;
+	 	outline: none !important;
+
+	}
+
+	.balina-input5 input, 
+	.balina-input1 input, 
+	.balina-input2 input, 
+	.balina-input3 input, 
+	.balina-input4 input {
+		  background-position: 1% 50%;
+	}
+
+	.form-control:focus {
+	  border-color: #003663;
+	}
+
+	.balina-input6 button {
+		border-radius: 5px;
+	}
+
+	.flight-drop-cnt {
+		text-align: left !important;
+	}
+
+	.flight-drop-inner10 ul {
+	  	justify-content: flex-start;
+	}
+
+	.flight-bottom-cnt h6 {
+		text-align: left;
+	}
+
+	
+}
+
+
+/*FOR-MOBIL-START*/
+@media screen and (max-width: 767px) {
+
+	.navigation-main {
+	  padding: 15px 0 5px 0;
+	}
+
+	.tab_wrapper > ul li.active::after {
+	  	width: 89%;
+	  	height: 122%;
+	  
+	 }
+
+	 .tab_wrapper > ul li {
+	  font-size: 15px;
+	  padding: 17px 41px;
+	}
+
+	.tab_wrapper > ul li.active::before {
+	  top: -5px;
+	  right: 14px;
+	}
+
+	.contact-submit input[type="submit"] {
+		background-position: 72% 50%;
+	}
+
+	.radio-item {
+	  	margin-right: 10px;
+	}
+
+	.contact-radio-btn [type="radio"]:checked + label, .contact-radio-btn [type="radio"]:not(:checked) + label {
+		  font-size: 14px;
+	}
+
+	.contact-item-inner2 {
+	  	margin-top: 0px;
+	}
+
+	.input-item, 
+	.contact-submit, 
+	.input-item2, 
+	.input-item3, 
+	.input-item4, 
+	.input-item2-inner {
+		/*! margin-top: 5px; */
+	}
+
+	.input-item2-inner input[type="text"] {
+		padding: 23px 10px 23px 35px;
+	}
+
+	.input-item input[type="text"] {
+		padding: 23px 10px 23px 50px;
+	}
+	
+	.popular-inner-left ul li {
+	  	padding-right: 12px;
+	}
+
+	.popular-inner-right ul li {
+	  	padding-right: 5px;
+	}
+
+	.inner-right-select {
+	  padding-left: 5px;
+	}
+
+	.popular-area {
+	  padding: 70px 0 30px 0;
+	}
+
+	.popular-title h2 {
+		font-size: 28px;
+	}
+
+	.popular-inner {
+		margin-top: 25px;
+	}
+
+	.drop-btn1 span {
+	  font-size: 11px;
+	}
+
+	.drop-btn1 img {
+		max-width: 16px;
+	}
+
+	.popular-inner-right {
+		margin-top: 10px;
+	}
+
+	.popular-inner-left ul,
+	.popular-inner-right ul {
+		justify-content: center;
+	}
+
+	.popular-inner-left ul li a {
+		font-size: 18px;
+	}
+
+	.popular-inner-right ul li:last-child {
+	  	padding-right: 4px;
+	}
+
+	.dropcontent1 {
+		right: -27px;
+	}
+
+	.footer-area {
+	  	padding: 5px 0 26px 0;
+	}
+
+	.footer-item {
+		margin-top: 30px;
+		text-align: center;
+	}
+
+	.social-item ul {
+		justify-content: center;
+	}
+
+	.copy-right-area {
+	  	padding: 30px 0 0 0;
+	}
+
+	.copy-right-cnt p {
+		text-align: center;
+	}
+
+	.copy-right-inner p {
+		text-align: center;
+	}
+
+	.show-map-area {
+  		padding: 80px 0 30px 0;
+ 	}
+
+	.show-map-item1 {
+		margin-bottom: 30px;
+	}
+
+	.show-map-item3 {
+		margin-top: 30px;
+		text-align: center;
+	}
+
+	.show-map-area2 {
+	  	padding-left: calc((100% - 515px) / 2);
+	}
+
+	.longer-button {
+		display: block !important;
+		text-align: center !important;
+	}
+
+	.longer-inner {
+		margin-top: 30px;
+		text-align: center;
+	}
+
+	.hotel-area {
+	 	padding: 50px 0 50px 0;
+	}
+
+	.hotel-item1 {
+		text-align: center ;
+	}
+
+	.hotel-item1-right {
+		text-align: center !important;
+		margin-top: 15px;
+	}
+
+	.hotel-item2 .col-lg-7 {
+		width: 100%;
+		flex: 100%;
+	}
+
+	.hotel-item2 .col-lg-5 {
+		width: 100%;
+		flex: 100%;
+	}
+
+	.main-content4 .owl-theme .custom-nav .owl-prev {
+	  	left: 0;
+	  	top: 55px;
+	}
+
+	.main-content4 .owl-theme .custom-nav .owl-next {
+	  	right: 0;
+	  	top: 55px;
+	}
+
+	.room-option-item {
+	  	width: 100%;
+	  	margin: 18px 0 0 0;
+	}
+
+	.price-item {
+		margin-top: 20px;
+	}
+
+	.price-item img {
+		margin-top: 10px;
+	}
+
+	.hotel-description-right {
+		margin-top: 20px;
+	}
+
+	.hotel-right-img {
+		margin-top: 20px;
+		text-align: center;
+	}
+
+	.payment-title-left {
+		text-align: center;
+	}
+
+	.payment-title-pg {
+		text-align: center;
+		margin-top: 20px;
+	}
+
+	.payment-toggle-btn {
+		justify-content: center !important;
+		margin-top: 20px;
+	}
+
+	.payment-right-side {
+		margin: auto;
+		margin-top: 30px;
+	}
+
+	.payment-submit-btn {
+		text-align: center !important;
+	}
+
+	.trip-list1 {
+		margin-top: 10px;
+	}
+
+	.trip-list-left {
+		margin-top: 10px;
+	}
+
+	.trip-list-right {
+		margin-top: 10px;
+		justify-content: center !important;
+	}
+
+	.trip-list-left-inner {
+		justify-content: center !important;
+	}
+
+	.trip-summary-item h4 {
+		text-align: center;
+	}
+
+	.baggage-item ul li {
+	  	font-size: 14px;
+	}
+
+	.baggage-submit-btn button {
+		padding: 5px 10px;
+	}
+
+	.baggage-submit-btn button {
+		font-size: 13px;
+	}
+
+	.baggage-submit-btn button span {
+	  	font-weight: 600;
+	  	font-size: 15px;
+	}
+
+	.baggage-item {
+		padding: 10px;
+	}
+
+	.drop-btn-cnt100 span {
+		font-size: 15px;
+	}
+
+	.banila-contact-box {
+	  	margin-top: 55px;
+	}
+
+	.balina-input3::after,
+	.balina-input4::after,
+	.balina-input5::after {
+		display: none;
+	}
+
+	.balina-form-box {
+	 	padding: 15px;
+	 }
+
+	 .balina-input-img {
+	 	display: none;
+	 }
+
+	 .balina-input {
+	 	margin-top: 15px;
+	 }
+
+	.balina-input input {
+	 	border: 2px solid #003663;
+	 	border-radius: 5px;
+	 	padding-top: 10px;
+	 	padding-bottom: 10px;
+	 	outline: none !important;
+
+	}
+
+	.balina-input5 input, 
+	.balina-input1 input, 
+	.balina-input2 input, 
+	.balina-input3 input, 
+	.balina-input4 input {
+		  background-position: 3% 50%;
+	}
+
+	.form-control:focus {
+	  border-color: #003663;
+	}
+
+	.balina-input6 button {
+		border-radius: 5px;
+	}
+
+	.popular-inner-left10 ul li a {
+		font-size: 14px;
+	}
+
+	
+	.item-cnt-left-inner2 {
+		margin-top: 30px;
+	}
+
+	.value-item-cnt-right {
+		text-align: left !important;
+		margin-top: 30px;
+	}
+
+	.kg-list {
+		margin-top: 20px;
+	}
+
+	.best-value-title-item {
+		margin-top: 20px;
+	}
+
+	.best-value-title-item::after {
+		display: none !important;
+	}
+
+	.best-value-title-item1 {
+		margin-top: 0;
+	}
+
+	.value-item-cnt-right::after {
+		display: none;
+	}
+
+	.flight-drop-cnt {
+		text-align: left !important;
+	}
+
+	.flight-drop-inner10 ul {
+	  	justify-content: flex-start;
+	}
+
+	.flight-bottom-cnt h6 {
+		text-align: left;
+	}
+
+	.flight-drop-inner-title ul li {
+		font-size: 12px;
+	}
+
+
+}
+
+
+@media screen and (max-width: 575px) {
+	.show-map-area2 {
+	  padding-left: 15px;
+	  
+	}
+
+	.baggage-item ul li {
+	  	font-size: 10px;
+	}
+
+	.baggage-submit-btn button {
+		padding: 5px 10px;
+	}
+
+	.baggage-submit-btn button {
+		font-size: 10px;
+	}
+
+	.baggage-submit-btn button span {
+	  	font-weight: 600;
+	  	font-size: 10px;
+	}
+
+	.baggage-item {
+		padding: 5px;
+	}
+
+	.balina-radio-item [type="radio"]:checked + label, .balina-radio-item [type="radio"]:not(:checked) + label {
+		  font-size: 11px;
+	 }
+
+	
+
+}
+
+
+
+
+		
+		         
